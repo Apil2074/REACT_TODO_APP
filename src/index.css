@@ -1,0 +1,20 @@
+html{
+  background-color: darkcyan;
+}
+
+.container-fluid{
+background-color: darkcyan;
+}
+
+input[type='text']{
+  background: transparent;
+  color: aliceblue;
+}
+input[type='text']:focus{
+  background: transparent;
+  color: aliceblue;
+}
+input[type='text']::placeholder{
+
+  color: aliceblue;
+}
